@@ -4,7 +4,7 @@
   "parameters": {
     "TestStorageAccount": {
       "type": "string",
-       "defaultValue": "Session",
+       "defaultValue": "nirajg2414_uri",
       "metadata": {
         "description": "Test Storage Account."
       }
